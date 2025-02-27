@@ -1,0 +1,11 @@
+### Submit Quiz Change the ID
+POST http://localhost:8080/quiz/submit
+Content-Type: application/json
+
+{
+  "questionId": "678fee8ea91227f721567d73",
+  "answer": "A framework for building mobile applications using JavaScript and React."
+}
+
+### Get All Questions
+GET http://localhost:8080/quiz/start

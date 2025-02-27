@@ -1,0 +1,28 @@
+# Root-level ignores
+/node_modules/
+/.git/
+
+# Unit-specific ignores
+Unit-*/**/node_modules/
+unit-*/**/.git/
+unit-*/**/build/
+unit-*/**/.expo/
+unit-*/**/ios/
+unit-*/**/android/
+
+# Common development files
+.DS_Store
+.env
+.env.local
+.env.development
+.env.production
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE and OS specific files
+.vscode/
+.idea/
+*.swp
+*.tmp
+Unit 5 API/Day 2 Simple Backend/QuizAPI/.gitignore

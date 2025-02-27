@@ -1,0 +1,42 @@
+[
+  {
+    "destination": "PH",
+    "trip_name": "Manila Adventure",
+    "cost": 1200,
+    "desc": "Explore the vibrant city of Manila.",
+    "things_to_see": [
+      {
+        "title": "Rizal Park",
+        "desc": "Visit the historic Rizal Park.",
+        "add_price": 0,
+        "time_in_days": 1
+      },
+      {
+        "title": "Intramuros",
+        "desc": "Explore the old walled city of Intramuros.",
+        "add_price": 5,
+        "time_in_days": 2
+      }
+    ]
+  },
+  {
+    "destination": "US",
+    "trip_name": "New York Experience",
+    "cost": 2000,
+    "desc": "Discover the bustling city of New York.",
+    "things_to_see": [
+      {
+        "title": "Statue of Liberty",
+        "desc": "Visit the iconic Statue of Liberty.",
+        "add_price": 0,
+        "time_in_days": 1
+      },
+      {
+        "title": "Central Park",
+        "desc": "Stroll around Central Park.",
+        "add_price": 10,
+        "time_in_days": 2
+      }
+    ]
+  }
+]

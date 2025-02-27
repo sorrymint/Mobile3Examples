@@ -1,0 +1,62 @@
+[
+  {
+    "description": "What is React Native?",
+    "correctAnswer": "A framework for building mobile applications using JavaScript and React.",
+    "options": [
+      "A programming language",
+      "A web development framework",
+      "A framework for building mobile applications using JavaScript and React.",
+      "A database management system"
+    ]
+  },
+  {
+    "description": "Which of the following is NOT a core component in React Native?",
+    "correctAnswer": "StatelessComponent",
+    "options": [
+      "View",
+      "Button",
+      "Clcok",
+      "Text"
+    ]
+  },
+  {
+    "description": "What is the purpose of the StyleSheet in React Native?",
+    "correctAnswer": "To style components.",
+    "options": [
+      "To handle user input",
+      "To style components",
+      "To manage state",
+      "To navigate between screens"
+    ]
+  },
+  {
+    "description": "What prop do you pass an <Image/> to set the image to display",
+    "correctAnswer": "Using the Navigation library.",
+    "options": [
+      "src",
+      "src",
+      "URI",
+      "source"
+    ]
+  },
+  {
+    "description": "What is the use of the useState hook in React?",
+    "correctAnswer": "To add state to functional components.",
+    "options": [
+      "To add state to functional components",
+      "To manage side effects",
+      "To handle user input",
+      "To render components"
+    ]
+  },
+  {
+    "description": "How do you fetch data from an API in React Native?",
+    "correctAnswer": "Using the fetch API or libraries like axios.",
+    "options": [
+      "Using the fetch API or libraries like axios.",
+      "Using the XMLHttpRequest object",
+      "Using the WebSocket API",
+      "Using the LocalStorage API"
+    ]
+  }
+]
