@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "The Dharma Bums",
+    "author": "Jack Kerouac",
+    "description": "The Dharma Bums is a 1958 novel by Beat Generation author Jack Kerouac. The basis for the novel's semi-fictional accounts are events occurring years after the events of On the Road.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/DharmaBums.JPG/220px-DharmaBums.JPG"
+  },
+  {
+    "id": 2,
+    "title": "On the Road",
+    "author": "Jack Kerouac",
+    "description": "Follows the travels of Sal Paradise, a character largely based on Kerouac himself, as he journeys across the United States with his charismatic friend Dean Moriarty (based on Neal Cassady), searching for self-discovery and experiencing life to the fullest through spontaneous adventures, often involving drugs, jazz, and sexual encounters, while rejecting societal norms and embracing the freedom of the open road",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/On_the_Road_%281957%29_front_cover%2C_first_edition.jpg/440px-On_the_Road_%281957%29_front_cover%2C_first_edition.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Axiom's End",
+    "author": "Lindsay Ellis",
+    "description": "Axiom's End is a 2020 science fiction novel by American writer Lindsay Ellis. Set in 2007, the novel is about a U.S. government coverup of contact with extraterrestrial life.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Axiom%27s_End_cover.jpg/220px-Axiom%27s_End_cover.jpg"
+  },
+  {
+    "id": 4,
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "description": "The Road is a 2006 post-apocalyptic novel by American writer Cormac McCarthy. The book details the grueling journey of a father and his young son over a period of several months across a landscape blasted by an unspecified cataclysm that has destroyed industrial civilization and almost all life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/The-road.jpg/220px-The-road.jpg"
+  }
+]
+   
+   

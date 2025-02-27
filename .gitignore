@@ -2,14 +2,6 @@
 /node_modules/
 /.git/
 
-# Unit-specific ignores
-Unit-*/**/node_modules/
-unit-*/**/.git/
-unit-*/**/build/
-unit-*/**/.expo/
-unit-*/**/ios/
-unit-*/**/android/
-
 # Common development files
 .DS_Store
 .env

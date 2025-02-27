@@ -1,0 +1,75 @@
+[
+    {
+        "id": "1",
+        "name": "Spaghetti Bolognese",
+        "ingredients": [
+            "Pasta",
+            "Ground Beef",
+            "Tomato Sauce",
+            "Onion",
+            "Garlic"
+        ],
+        "starred": false,
+        "cookTime": 30,
+        "difficulty": 3
+    },
+    {
+        "id": "2",
+        "name": "Chicken Adobo",
+        "ingredients": [
+            "Chicken Thighs",
+            "Soy Sauce",
+            "Garlic",
+            "Onion",
+            "Sugar",
+            "Bay Leaves"
+        ],
+        "starred": false,
+        "cookTime": 40,
+        "difficulty": 5
+    },
+
+    {
+        "id": "3",
+        "name": "Vegetarian Stir-Fry",
+        "ingredients": ["Tofu", "Broccoli", "Carrots", "Soy Sauce", "Ginger"],
+        "starred": false,
+        "cookTime": 20,
+        "difficulty": 2
+    },
+    {
+        "id": "4",
+        "name": "Margherita Pizza",
+        "ingredients": ["Pizza Dough", "Tomatoes", "Fresh Mozzarella", "Basil"],
+        "starred": false,
+        "cookTime": 15,
+        "difficulty": 1
+    },
+    {
+        "id": "5",
+        "name": "Beef Tacos",
+        "ingredients": [
+            "Ground Beef",
+            "Taco Shells",
+            "Lettuce",
+            "Tomato",
+            "Cheese"
+        ],
+        "starred": false,
+        "cookTime": 20,
+        "difficulty": 2
+    },
+    {
+        "id": "6",
+        "name": "Chicken Alfredo",
+        "ingredients": [
+            "Fettuccine",
+            "Chicken Breast",
+            "Alfredo Sauce",
+            "Parmesan"
+        ],
+        "starred": false,
+        "cookTime": 25,
+        "difficulty": 2
+    }
+]

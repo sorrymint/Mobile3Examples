@@ -1,0 +1,61 @@
+{
+    "title": "Fishing",
+    "heading": "At Bennett Spring State Park",
+    "desc": "Put on your waders and cast your line for trout! The thrill of filling your skillet with fresh-caught rainbow trout awaits you at Bennett Spring State Park.The spring branch is stocked daily during the regular fishing season, which is March 1 through Oct. 31. Daily trout tags are required to fish on the spring branch and zones are set aside for different kinds of lures. Tags are available at the park store. The park store is also the place to inquire about fly-fishing lessons, including free general classes and private lessons. For more information, call 417-532-4307 or visit the concessionaire's website. To help anglers of all abilities easily reach the water, three accessible fishing piers have been constructed reaching into the spring branch. For more information on fishing permits, seasons, regulations and a current fishing report, click on the links to the right. A fishing report for the park is provided by the Missouri Department of Conservation.",
+    "regulations": {
+        "heading": "Trout Fishing Regulations",
+        "zones": [
+            "From the spring to the dam. Only flies with or without spinners are permitted.",
+            "From the hatchery dam to the whistle bridge. Only flies and artificial lures are permitted.",
+            "From the whistle bridge to the Niangua River. Only soft plastic bait (unscented), natural and scented bait are permitted. All flies and artificial lures are prohibited, even if natural bait or scent has been added."
+        ]
+    },
+    "fishing_hours": [
+        {
+            "month": "March",
+            "beginning": "6:30 a.m.*/7:30 a.m.**",
+            "ending": "6 p.m.*/7 p.m.**"
+        },
+        {
+            "month": "April",
+            "beginning": "7a.m.",
+            "ending": "7:30p.m."
+        },
+        {
+            "month": "March",
+            "beginning": "6:30 a.m.*/7:30 a.m.**",
+            "ending": "6 p.m.*/7 p.m.**"
+        },
+        {
+            "month": "March",
+            "beginning": "6:30 a.m.*/7:30 a.m.**",
+            "ending": "6 p.m.*/7 p.m.**"
+        },
+        {
+            "month": "March",
+            "beginning": "6:30 a.m.*/7:30 a.m.**",
+            "ending": "6 p.m.*/7 p.m.**"
+        },
+        {
+            "month": "March",
+            "beginning": "6:30 a.m.*/7:30 a.m.**",
+            "ending": "6 p.m.*/7 p.m.**"
+        },
+        {
+            "month": "March",
+            "beginning": "6:30 a.m.*/7:30 a.m.**",
+            "ending": "6 p.m.*/7 p.m.**"
+        }
+    ],
+    "rules": [
+        "Trout fishing is permitted in accordance with the state wildlife code and posted restrictions daily from March 1 through Oct. 31, and during the winter catch-and-release season from the second Friday in November to the second Monday in February on Friday, Saturday, Sunday and Monday only.",
+        "Each angler shall display a daily trout tag purchased on the area and bearing his or her signature.",
+        "Each angler shall have a state fishing permit except those 15 years and younger or Missouri residents 65 years and older.",
+        "Each angler shall keep their trout separate at all times and identified with their name and address.",
+        "Daily limit is four, only one of which may be a brown trout equal to or greater than 15 inches. No length limit on rainbow trout. Possession limit is eight trout.",
+        "Only a single pole or rod may be used. Gigging, snaring or snagging is NOT permitted.",
+        "No person shall continue to fish for any species in these trout waters after having four trout in possession.",
+        "The use of game fish or parts thereof for bait is prohibited; chumming is not permitted.",
+        "No trout may be possessed in the catch-and-release area."
+    ]
+}

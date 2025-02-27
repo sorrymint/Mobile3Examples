@@ -1,0 +1,28 @@
+[
+  {
+    "id": "123",
+    "name": "John Doe",
+    "username": "johndoe",
+    "bio": "Just a regular guy trying to make a difference.",
+    "location": "New York, USA",
+    "website": "https://johndoe.com",
+    "profileImage": "https://www.shutterstock.com/image-photo/close-head-shot-confident-serious-600w-1481322794.jpg",
+    "followers": 500,
+    "following": 200,
+    "posts": 100,
+    "likes": 1500
+  },
+  {
+    "id": "456",
+    "name": "Jane Smith",
+    "username": "janesmith",
+    "bio": "Passionate about technology and sustainability.",
+    "location": "San Francisco, USA",
+    "website": "https://janesmith.com",
+    "profileImage": "https://www.shutterstock.com/image-photo/close-head-shot-confident-serious-600w-1481322794.jpg",
+    "followers": 300,
+    "following": 150,
+    "posts": 80,
+    "likes": 1200
+  }
+]
